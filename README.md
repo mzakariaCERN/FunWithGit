@@ -18,3 +18,9 @@ git reset --hard origin/master
 ```
 
 This happens in case you don't like what you did with your own version and want to set your branch to exactly match the remote branch. [see](https://stackoverflow.com/a/1628334/4656963)
+
+
+a semi interactive method to add files
+```
+git add -i
+```
